@@ -1,0 +1,380 @@
+{
+  "produits": [
+    {
+      "id": 1,
+      "reference": "SkinActive",
+      "designation": "Micellar Vitamine C Cleansing Water",
+      "marque": "Garnier",
+      "prixAchat": 20.3,
+      "prixVente": "1000",
+      "qtestock": "52",
+      "imageartpetitf": "images/sk1.jpg"
+    },
+    {
+      "id": 2,
+      "reference": "SkinActive",
+      "designation": "Micellar Vitamine C Cleansing Water",
+      "marque": "Garnier",
+      "prixAchat": 20.3,
+      "prixVente": "1000",
+      "qtestock": "24",
+      "imageartpetitf": "images/sk2.jpg"
+    },
+    {
+      "reference": "SkinActive",
+      "designation": "Micellar Vitamine C Cleansing Water",
+      "marque": "Garnier",
+      "prixAchat": 20.3,
+      "prixVente": "1000",
+      "qtestock": "25",
+      "imageartpetitf": "images/sk4.jpg",
+      "id": 3
+    },
+    {
+      "reference": "SkinActive",
+      "designation": "Micellar Vitamine C Cleansing Water",
+      "marque": "Garnier",
+      "prixAchat": 20.3,
+      "prixVente": "1000",
+      "qtestock": "24",
+      "imageartpetitf": "images/sk5.jpg",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "reference": "SkinActive",
+      "designation": "Micellar Vitamine C Cleansing Water",
+      "marque": "Garnier",
+      "prixAchat": 20.3,
+      "prixVente": "1000",
+      "qtestock": "24",
+      "imageartpetitf": "images/sk8.jpg"
+    },
+    {
+      "reference": "Garnier Skin Actives",
+      "designation": "Sanfetes Mizellen Peeling-Wasser",
+      "marque": "Garnier",
+      "prixAchat": "13500",
+      "prixVente": "14750",
+      "qtestock": "30",
+      "imageartpetitf": "images/sk13.jpg",
+      "id": 6
+    },
+    {
+      "reference": "Garnier Skin Active",
+      "designation": "Mascarilla Para Contorno De Ojos",
+      "marque": "Garnier",
+      "prixAchat": "25",
+      "prixVente": "24",
+      "qtestock": "23",
+      "imageartpetitf": "images/sk16.jpg",
+      "id": 7
+    },
+    {
+      "reference": "Garnier Skin Naturals",
+      "designation": "PureActive Fruit Energy",
+      "marque": "Garnier",
+      "prixAchat": "14500",
+      "prixVente": "16.200",
+      "qtestock": "12",
+      "imageartpetitf": "images/sk12.jpg",
+      "id": 8
+    },
+    {
+      "reference": "Micellar",
+      "designation": "Cleansing Water",
+      "marque": "Garnier Skin Active",
+      "prixAchat": "14.300",
+      "prixVente": "15",
+      "qtestock": "25",
+      "imageartpetitf": "images/sk22.jpg",
+      "id": 9
+    },
+    {
+      "id": 10,
+      "reference": "",
+      "designation": "Cream Bio",
+      "marque": "Garnier Bio",
+      "prixAchat": "21",
+      "prixVente": "22",
+      "qtestock": "16",
+      "imageartpetitf": "images/ph2.jpg"
+    },
+    {
+      "reference": "Nutri Bomb",
+      "designation": "Garnier Skin Active",
+      "marque": "Garnier",
+      "prixAchat": "12",
+      "prixVente": "12.500",
+      "qtestock": "24",
+      "imageartpetitf": "images/sk21.jpg",
+      "id": 11
+    },
+    {
+      "reference": "Cream Viso Economiche",
+      "designation": "Garnier Organic ",
+      "marque": " Garnier",
+      "prixAchat": "17",
+      "prixVente": "17.800",
+      "qtestock": "40",
+      "imageartpetitf": "images/sk23.jpg",
+      "id": 12
+    },
+    {
+      "reference": "Gel Nettoyant Détexiffiante",
+      "designation": "Garnier Bio",
+      "marque": "Garnier",
+      "prixAchat": "12.500",
+      "prixVente": "14.600",
+      "qtestock": "29",
+      "imageartpetitf": "images/ph3.jpg",
+      "id": 13
+    },
+    {
+      "reference": "Purifying Botancial Gel Wash ",
+      "designation": "Garnier SkinActive",
+      "marque": "Garnier",
+      "prixAchat": "21",
+      "prixVente": "22",
+      "qtestock": "30",
+      "imageartpetitf": "images/sk25.jpg",
+      "id": 14
+    },
+    {
+      "id": 42,
+      "reference": "GARNIER SKIN ACTIVE",
+      "designation": "Nutri-Glow-cream",
+      "marque": "Garnier",
+      "prixAchat": "11.500",
+      "prixVente": "12.500",
+      "qtestock": "18",
+      "imageartpetitf": "images/sk11.jpg"
+    }
+  ],
+  "Clients": [
+    {
+      "nom": "ali",
+      "prenom": "abdennadher",
+      "numtel": "2563417777",
+      "email": "aliabdennadher@gmail.com",
+      "image": "images/img6.jpg",
+      "id": 1
+    },
+    {
+      "nom": "anwar",
+      "prenom": "fki",
+      "numtel": "2589631",
+      "email": "anwarfki@gmail.com",
+      "image": "images/img5.jpg",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "nom": "sami",
+      "prenom": "abddkrim",
+      "numtel": "36987415",
+      "email": "samiabdkrim@gmail.com",
+      "image": "images/img3.jpg"
+    },
+    {
+      "id": 4,
+      "nom": "nibrasse",
+      "prenom": "mahmoudi",
+      "numtel": "78963542",
+      "email": "nibrassemahmoudi@gmail.com",
+      "image": "images/img2.AVIF"
+    },
+    {
+      "id": 5,
+      "nom": "mailek",
+      "prenom": "abdennadher",
+      "numtel": "25634178",
+      "email": "malekabdennadher@gmail.com",
+      "image": "images/img1.AVIF"
+    },
+    {
+      "nom": "wiem",
+      "prenom": "abdennadher",
+      "numtel": "21990191",
+      "email": "wiemabdennadher@yahoo.fr",
+      "image": "images/img11.jpg",
+      "id": 8
+    },
+    {
+      "nom": "ahmed",
+      "prenom": "samet",
+      "numtel": "25147896",
+      "email": "ahmedsamet30@yahoo.fr",
+      "image": "images/img10.jpg",
+      "id": 9
+    },
+    {
+      "nom": "sameh",
+      "prenom": "ben salem",
+      "numtel": "97755280",
+      "email": "samehbensalem80@yahoo.fr",
+      "image": "images/img9.jpg",
+      "id": 10
+    },
+    {
+      "nom": "Mohamed",
+      "prenom": "sameoui",
+      "email": "mohamedsameoui95@yahoo.fr",
+      "numtel": "23659874",
+      "image": "images/img4.jpg",
+      "id": 11
+    }
+  ],
+  "skin": [
+    {
+      "reference": "SkinActive",
+      "designation": "Micellar Vitamine C Cleansing Water",
+      "marque": "Garnier",
+      "prixAchat": 20.3,
+      "prixVente": "1000",
+      "qtestock": "52",
+      "imageartpetitf": "images/sk1.jpg",
+      "id": 1
+    },
+    {
+      "reference": "SkinActive",
+      "designation": "Micellar Vitamine C Cleansing Water",
+      "marque": "Garnier",
+      "prixAchat": 20.3,
+      "prixVente": "1000",
+      "qtestock": "10",
+      "imageartpetitf": "images/sk3.jpg",
+      "id": 2
+    },
+    {
+      "id": 2,
+      "reference": "SkinActive",
+      "designation": "Micellar Vitamine C Cleansing Water",
+      "marque": "Garnier",
+      "prixAchat": 20.3,
+      "prixVente": "1000",
+      "qtestock": "24",
+      "imageartpetitf": "images/sk2.jpg"
+    },
+    {
+      "reference": "SkinActive",
+      "designation": "Micellar Vitamine C Cleansing Water",
+      "marque": "Garnier",
+      "prixAchat": 20.3,
+      "prixVente": "1000",
+      "qtestock": "25",
+      "imageartpetitf": "images/sk4.jpg",
+      "id": 3
+    },
+    {
+      "reference": "SkinActive",
+      "designation": "Micellar Vitamine C Cleansing Water",
+      "marque": "Garnier",
+      "prixAchat": 20.3,
+      "prixVente": "1000",
+      "qtestock": "24",
+      "imageartpetitf": "images/sk5.jpg",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "reference": "SkinActive",
+      "designation": "Micellar Vitamine C Cleansing Water",
+      "marque": "Garnier",
+      "prixAchat": 20.3,
+      "prixVente": "1000",
+      "qtestock": "24",
+      "imageartpetitf": "images/sk8.jpg"
+    },
+    {
+      "reference": "Garnier Skin Actives",
+      "designation": "Sanfetes Mizellen Peeling-Wasser",
+      "marque": "Garnier",
+      "prixAchat": "13500",
+      "prixVente": "14750",
+      "qtestock": "30",
+      "imageartpetitf": "images/sk13.jpg",
+      "id": 6
+    },
+    {
+      "reference": "Garnier Skin Active",
+      "designation": "Mascarilla Para Contorno De Ojos",
+      "marque": "Garnier",
+      "prixAchat": "25",
+      "prixVente": "24",
+      "qtestock": "23",
+      "imageartpetitf": "images/sk16.jpg",
+      "id": 7
+    },
+    {
+      "reference": "Garnier Skin Naturals",
+      "designation": "PureActive Fruit Energy",
+      "marque": "Garnier",
+      "prixAchat": "14500",
+      "prixVente": "16.200",
+      "qtestock": "12",
+      "imageartpetitf": "images/sk12.jpg",
+      "id": 8
+    },
+    {
+      "reference": "Micellar",
+      "designation": "Cleansing Water",
+      "marque": "Garnier Skin Active",
+      "prixAchat": "14.300",
+      "prixVente": "15",
+      "qtestock": "25",
+      "imageartpetitf": "images/sk22.jpg",
+      "id": 9
+    },
+    {
+      "reference": "",
+      "designation": "Cream Bio",
+      "marque": "Garnier Bio",
+      "prixAchat": "21",
+      "prixVente": "22",
+      "qtestock": "16",
+      "imageartpetitf": "images/ph2.jpg",
+      "id": 10
+    },
+    {
+      "reference": "Nutri Bomb",
+      "designation": "Garnier Skin Active",
+      "marque": "Garnier",
+      "prixAchat": "12",
+      "prixVente": "12.500",
+      "qtestock": "24",
+      "imageartpetitf": "images/sk21.jpg",
+      "id": 11
+    },
+    {
+      "reference": "Cream Viso Economiche",
+      "designation": "Garnier Organic ",
+      "marque": " Garnier",
+      "prixAchat": "17",
+      "prixVente": "17.800",
+      "qtestock": "40",
+      "imageartpetitf": "images/sk23.jpg",
+      "id": 12
+    },
+    {
+      "reference": "Gel Nettoyant Détexiffiante",
+      "designation": "Garnier Bio",
+      "marque": "Garnier",
+      "prixAchat": "12.500",
+      "prixVente": "14.600",
+      "qtestock": "29",
+      "imageartpetitf": "images/ph3.jpg",
+      "id": 13
+    },
+    {
+      "reference": "Purifying Botancial Gel Wash ",
+      "designation": "Garnier SkinActive",
+      "marque": "Garnier",
+      "prixAchat": "21",
+      "prixVente": "22",
+      "qtestock": "30",
+      "imageartpetitf": "images/sk25.jpg",
+      "id": 14
+    }
+  ]
+}
